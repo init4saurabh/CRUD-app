@@ -1,3 +1,20 @@
+# 🛠️ CRUD App
+
+A full-stack **CRUD (Create, Read, Update, Delete)** application built with modern technologies like **Next.js**, **TypeScript**, **Drizzle ORM**, **Neon PostgreSQL**, and **shadcn/ui** for beautiful and accessible UI components.
+
+---
+
+## 🚀 Tech Stack
+
+| Technology     | Description                                      |
+|----------------|--------------------------------------------------|
+| [Next.js](https://nextjs.org/)       | React-based framework for full-stack apps |
+| [TypeScript](https://www.typescriptlang.org/) | Strongly-typed JavaScript |
+| [Shadcn/UI](https://ui.shadcn.com/)  | Headless & customizable UI components     |
+| [Drizzle ORM](https://orm.drizzle.team/)   | Type-safe ORM for SQL databases         |
+| [Neon](https://neon.tech/) + PostgreSQL | Serverless, scalable Postgres database   |
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
