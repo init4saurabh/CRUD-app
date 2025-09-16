@@ -83,7 +83,7 @@ export default function UserForm({ user }: UserFormProps) {
             <FormItem>
               <FormLabel>Username</FormLabel>
               <FormControl>
-                <Input placeholder="Bruce Wayne" {...field} />
+                <Input placeholder="Batman" {...field} />
               </FormControl>
               <FormMessage />
             </FormItem>

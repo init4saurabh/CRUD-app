@@ -26,7 +26,7 @@ export default async function UsersTable() {
 
   return (
     <Table>
-      <TableCaption>A list users.</TableCaption>
+      <TableCaption> list of users.</TableCaption>
       <TableHeader>
         <TableRow>
           <TableHead className="w-[100px]">Email</TableHead>

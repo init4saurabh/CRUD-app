@@ -50,10 +50,9 @@ export default function DeleteUserButton({ userId }: DeleteUserButtonProps) {
 
       <DialogContent>
         <DialogHeader>
-          <DialogTitle>Are you absolutely sure?</DialogTitle>
+          <DialogTitle>Are you sure?</DialogTitle>
           <DialogDescription>
-            This action cannot be undone. This will permanently delete your
-            account and remove your data from our servers.
+            This action cannot be undone.
           </DialogDescription>
 
           <Button
